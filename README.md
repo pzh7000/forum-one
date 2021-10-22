@@ -11,4 +11,4 @@ Instructions -
 
 New section will now appear in sidebar for authenticated users.
 
-Thanks for viewing!
+Thanks for checking it out!
