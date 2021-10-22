@@ -1,0 +1,8 @@
+name: Forum One Coding Challenge
+type: module
+description: 'Coding exercise for Forum One by Patrick Hangauer.'
+package: Custom
+version: 8.x
+core: 8.x
+dependencies:
+  - block
